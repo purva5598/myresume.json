@@ -1,0 +1,112 @@
+{
+	"basics": {
+		"name": "Purva",
+		"label": "Student",
+
+		"email": "2021kucp1036@iiitkota.ac.in",
+		"phone": "",
+
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Moving forward with Computer Programming , getting my hands on web development and exploring new fields.",
+		"location": {
+			"address": "Karnal",
+			"postalCode": "123001",
+			"city": "Karnal",
+			"countryCode": " India",
+			"region": "Haryana"
+		},
+		"profiles": [{
+				"network": "Instagram",
+				"username": "ca_craint_._",
+				"url": "https://www.instagram.com/ca_craint_._/"
+			},
+			{
+				"network": "Github",
+				"username": "purva5598",
+				"url": "https://github.com/purva5598"
+			},
+			{
+				"network": "linkedin",
+				"username": "Purva Sharma",
+				"url": "https://www.linkedin.com/in/purva-sharma-587b4a236/"
+			},
+			{
+				"network": "Instagram",
+				"username": "ca_craint_._",
+				"url": "https://www.instagram.com/ca_craint_._/"
+			}
+		]
+	},
+	"work": [{
+			"company": "IIITians Network",
+			"position": "Social Media Coordinator",
+			"website": "https://iiitiansnetwork.com",
+			"summary": "Working as a social media coordinator at IIITians network."
+		},
+		{
+			"company": "Neon Cinematics",
+			"position": "Social Media Coordinator",
+			"Page": "https://www.instagram.com/neoncinematics/",
+			"summary": "Working as a social media coordinator at Neon Cinematics Club of IIIT Kota."
+		}
+	],
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+
+
+	"skills": [{
+		"name": "Frontend Development",
+		"level": "Master",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"Javascript",
+			"MySQL",
+			"Git",
+			"C/C++",
+			"Python"
+		]
+	}],
+	"languages": [{
+			"language": "English",
+			"fluency": "Native speaker"
+		},
+		{
+			"language": "Korean",
+			"fluency": "Intermediate"
+		}
+	],
+	"interests": [{
+			"name": "Journaling",
+			"keywords": [
+				"Bullet Journal"
+			]
+		},
+
+		{
+			"name": "Sketching",
+			"keywords": [
+				"Portrait"
+			]
+		},
+		{
+			"name": "Reading",
+			"keywords": [
+				"Fictional novels"
+			]
+		},
+		{
+			"name": "Painting",
+			"keywords": [
+				"Acrylic",
+				"Abstract"
+			]
+		}
+	]
+}
